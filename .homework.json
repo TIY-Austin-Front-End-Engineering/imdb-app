@@ -1,0 +1,14 @@
+{
+    "name": "imdb-app",
+    "version": "0.0.1",
+    "title": "IMDB App",
+    "description": "Use the unofficial IMDB API to create an app that keep track of the movies that you want to watch",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "API",
+        "JavaScript"
+    ]
+}
